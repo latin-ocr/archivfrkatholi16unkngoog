@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./archivfrkatholi16unkngoog/archivfrkatholi16unkngoog_0003.png"; bbox 0 0 3275 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 1006 1946 2204">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 1006 1946 2204">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 1006 1946 2204; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 1006 1946 2204; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 817 2316 2175 2391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 817 2316 2175 2391">
+     <span class='ocr_line' id='line_1_2' title="bbox 817 2316 2175 2391; baseline -0.003 0"><span class='ocrx_word' id='word_1_2' title='bbox 817 2319 1267 2391; x_wconf 86' lang='lat' dir='ltr'>HARVAR</span> <span class='ocrx_word' id='word_1_3' title='bbox 1285 2318 1354 2391; x_wconf 93' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_4' title='bbox 1415 2318 1648 2390; x_wconf 82' lang='lat' dir='ltr'>LAW</span> <span class='ocrx_word' id='word_1_5' title='bbox 1705 2316 2175 2389; x_wconf 82' lang='lat' dir='ltr'><strong>LIBRARY</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 748 3222 1706 3356">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 748 3222 1706 3356">
+     <span class='ocr_line' id='line_1_3' title="bbox 748 3222 1706 3356; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 748 3222 994 3356; x_wconf 46' lang='lat' dir='ltr'>Recei{ve‹1</span> <span class='ocrx_word' id='word_1_7' title='bbox 1088 3273 1258 3350; x_wconf 69' lang='grc' dir='ltr'>ΛΗΘ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1342 3273 1389 3347; x_wconf 80' lang='grc'>5</span> <span class='ocrx_word' id='word_1_9' title='bbox 1532 3272 1706 3354; x_wconf 84' lang='grc'><strong>1925</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 884 4376 1842 4908">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 884 4376 1842 4908">
+     <span class='ocr_line' id='line_1_4' title="bbox 884 4376 1842 4908; baseline -0.001 -10"><span class='ocrx_word' id='word_1_10' title='bbox 884 4376 1842 4908; x_wconf 40' lang='grc' dir='ltr'>ΓΝ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
